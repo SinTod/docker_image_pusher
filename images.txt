@@ -3,3 +3,5 @@ docker:dind
 golang:1.20.2-buster
 timescale/timescaledb:latest-pg16
 nats:scratch
+nginx:stable-alpine-otel
+nginx:stable-alpine
