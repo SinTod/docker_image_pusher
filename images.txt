@@ -5,3 +5,4 @@ timescale/timescaledb:latest-pg16
 nats:scratch
 nginx:stable-alpine-otel
 nginx:stable-alpine
+thanosio/thanos:v0.32.0
