@@ -6,3 +6,4 @@ nats:scratch
 nginx:stable-alpine-otel
 nginx:stable-alpine
 thanosio/thanos:v0.32.0
+netdata/netdata:latest
